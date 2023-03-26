@@ -1,2 +1,26 @@
-# HelpAfricaWomen
-![image](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/mm1.PNG)
+# 不到一美元可以帮助降低非洲产妇死亡率
+
+我是Daystar学校5年级的学生。这是我关于非洲孕产妇死亡率的PYP毕业展相关的行动。PYP毕业展是我在5年级毕业时做的一个总结性评估，我们会把收集到的资料和行动方案进行展示。
+
+
+我选择的提案，是调查非洲孕妇死亡率。这个问题和联合国可持续发展目标3，健康与福祉相关。通过我的调查和专家对我的反馈，我已经知道，在非洲，医院里的医疗机器质量不是最好的，去医院生产的人很少，所以分娩更危险。这造成在非洲分娩期间“死亡率很高”。在非洲产妇死亡率排名前三的国家是马里，索马里和中非共和国，死亡率几乎达到千分之80。我采访了妇产科的专家，给我的回复是，死亡大多都是因环境差和消毒条件不好导致，但是人们似乎没有做出太多努力来降低高死亡率。所以，我想帮忙，我希望我能用我的想法和行动来减少非洲的孕产妇死亡率，并努力提高人们对孕产妇健康的认识。
+
+
+我的行动是为非洲的产妇设计一个医疗包，里面有一些简单、实用、并且足够便宜的医疗用品，可以给孕妇提供必要的消毒和简单的帮助。如果你要去非洲旅行，有非洲朋友，或者和我一样想帮助他们，并且支持我的想法的话，希望你可以参考以下的列表购买这些东西，把这个医疗包送到非洲那些孕妇死亡率高的国家，交给需要的人。根据我的计算，每一个医疗包不需要花太多钱，应该可以低到1美元一个，我会尽量找到更好，价格更加便宜的产品，不断更新这个产品。
+
+
+我希望所有看到我网站的人都能支持我，一起帮助非洲的孕妇面临的挑战。谢谢你的支持。
+
+
+# 医疗包参考
+
+* 随时更新
+
+| 物品 | 用途 | 照片 | 数量 | 单价 | 参考购买链接 |
+| -------- | -------- | -------- | -------- | -------- |-------- |
+| 一次性手术单     | 生产时候铺在床上防止感染     | ![Text ](https://raw.githubusercontent.com/WangJiaLinJady/HelpAfricaWomen/main/imgs/1.png)    | 1     | 1     |  |
+| 碘酒   | 消毒    |  ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/2.png?raw=true)    | 1瓶500ml     | 5     | |
+| 医用棉     | 清洁，消毒，止血     | ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/4.png?raw=true)     | 1包      | 1     | |
+| 碘伏棉签     | 清洁，消毒     |   ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/3.png?raw=true) | 10根      | 1     | |
+| 医用纱布     | 伤口包扎，止血     |  ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/5.png?raw=true)   | 1包      | 1     | |
+
