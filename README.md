@@ -14,8 +14,7 @@ I hope that all those who see my website will support me and help pregnant women
 
 # 医疗包参考
 Medical package reference.
-* 随时更新
-* updated from time to time
+* 随时更新 updated from time to time
 | 物品 | 用途 | 照片 | 数量 | 单价 | 参考购买链接 |
 | -------- | -------- | -------- | -------- | -------- |-------- |
 | 一次性手术单     | 生产时候铺在床上防止感染     | ![Text ](https://raw.githubusercontent.com/WangJiaLinJady/HelpAfricaWomen/main/imgs/1.png)    | 1     | 1     |  |
