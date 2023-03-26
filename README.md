@@ -12,9 +12,8 @@ My action is to design a medical bag for pregnant women in Africa, which contain
 我希望所有看到我网站的人都能支持我，一起帮助非洲的孕妇面临的挑战。谢谢你的支持。
 I hope that all those who see my website will support me and help pregnant women in Africa to face the challenges. Thank you for your support.
 
-# 医疗包参考
-Medical package reference.
-* 随时更新 updated from time to time
+# 医疗包参考 Medical package reference.
+随时更新 updated from time to time
 | 物品 | 用途 | 照片 | 数量 | 单价 | 参考购买链接 |
 | -------- | -------- | -------- | -------- | -------- |-------- |
 | 一次性手术单     | 生产时候铺在床上防止感染     | ![Text ](https://raw.githubusercontent.com/WangJiaLinJady/HelpAfricaWomen/main/imgs/1.png)    | 1     | 1     |  |
