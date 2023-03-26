@@ -1,4 +1,5 @@
 # 不到两美元可以帮助降低非洲产妇死亡率 Less than two dollars can help reduce maternal mortality in Africa
+![Text ](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/1291659707.jpg?raw=true)
 
 我是Daystar学校5年级的学生。这是我关于非洲孕产妇死亡率的PYP毕业展相关的行动。PYP毕业展是我在5年级毕业时做的一个总结性评估，我们会把收集到的资料和行动方案进行展示。
 I am a student of Grade 5 in Daystar School. This is related to my PYP exhibition on maternal mortality in Africa. The PYP Exhibition is a summary assessment I made when I graduated from Grade 5, and we will present the information collected and the action plan.
