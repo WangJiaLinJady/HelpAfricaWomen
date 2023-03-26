@@ -16,7 +16,7 @@ I hope that all those who see my website will support me and help pregnant women
 随时更新 updated from time to time
 | 物品 | 用途 | 照片 | 数量 | 单价 | 参考购买链接 |
 | -------- | -------- | -------- | -------- | -------- |-------- |
-| 一次性手术单     | 生产时候铺在床上防止感染     | ![Text ](https://raw.githubusercontent.com/WangJiaLinJady/HelpAfricaWomen/main/imgs/1.png)    | 1     | 1     |  |
+| 一次性手术单     | 生产时候铺在床上防止感染     | ![Text ](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/a1.jpg?raw=true)    | 1     | 1     |  |
 | 碘酒   | 消毒    |  ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/2.png?raw=true)    | 1瓶500ml     | 5     | |
 | 医用棉     | 清洁，消毒，止血     | ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/4.png?raw=true)     | 1包      | 1     | |
 | 碘伏棉签     | 清洁，消毒     |   ![链接](https://github.com/WangJiaLinJady/HelpAfricaWomen/blob/main/imgs/3.png?raw=true) | 10根      | 1     | |
